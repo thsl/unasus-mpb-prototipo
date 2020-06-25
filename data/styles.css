@@ -105,6 +105,9 @@
   font-weight:400;
   font-style:normal;
 }
+.html_button {
+  text-align:center;
+}
 .paragraph1 {
   font-family:'OpenSans', 'Open Sans';
   font-weight:400;
@@ -133,6 +136,11 @@
   font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
+}
+.text_field {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
 }
 .droplist {
   font-size:13px;
