@@ -32,6 +32,8 @@
   font-weight:400;
   font-style:normal;
 }
+.button {
+}
 .primary_button {
   font-family:'OpenSans', 'Open Sans';
   font-weight:400;
@@ -104,6 +106,9 @@
   font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
+}
+.radio_button {
+  text-align:left;
 }
 .html_button {
   text-align:center;
